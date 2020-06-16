@@ -1,4 +1,5 @@
-from two_layer_network import TwoLayerNet
+# from two_layer_network import TwoLayerNet
+from two_layer_network_using_layers import TwoLayerNet
 from dataset.mnist import load_mnist
 import matplotlib.pyplot as plt
 import numpy as np
